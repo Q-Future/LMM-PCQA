@@ -9,9 +9,7 @@
     <a href="https://huggingface.co/datasets/zhangzicheng/pcqa_dataset_projections"><img src="https://img.shields.io/badge/Data-Release-green"></a>
    </div>
 
-  <div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:100%" src="spotlight.png">
-  </div>
+
 
   
   <h1>LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM</h1>
@@ -43,6 +41,9 @@ _ACM MM2024 Oral_
   <a href="https://arxiv.org/abs/2404.18203"><strong>Paper</strong></a> |
 <a href="https://github.com/zzc-1998/LMM-PCQA"><strong>Github</strong></a> |
  <a href="https://huggingface.co/datasets/zhangzicheng/pcqa_dataset_projections"><strong>Data</strong></a> 
+   <div style="width: 100%; text-align: center; margin:auto;">
+      <img style="width:100%" src="spotlight.png">
+  </div>
   <div style="width: 100%; text-align: center; margin:auto;">
       <img style="width:100%" src="framework.png">
   </div>
