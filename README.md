@@ -3,19 +3,16 @@
     
  <div>
 
-<a href="https://github.com/Q-Future/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvqassessment%2FA-Bench&count_bg=%23E97EBA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
-    <a href="https://github.com/Q-Future/A-Bench"><img src="https://img.shields.io/github/stars/Q-Future/A-Bench"/></a>
-    <a href="https://arxiv.org/pdf/2406.03070"><img src="https://img.shields.io/badge/Arxiv-2406.03070-blue"/></a>
-    <a href="https://huggingface.co/datasets/q-future/A-Bench"><img src="https://img.shields.io/badge/Data-Release-green"></a>
+<a href="https://github.com/zzc-1998/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvqassessment%2FLMM-PCQA&count_bg=%23E97EBA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+    <a href="https://github.com/zzc-1998/LMM-PCQA"><img src="https://img.shields.io/github/stars/zzc-1998/LMM-PCQA"/></a>
+    <a href="https://arxiv.org/abs/2404.18203"><img src="https://img.shields.io/badge/Arxiv-2406.03070-blue"/></a>
+    <a href="https://huggingface.co/datasets/zhangzicheng/pcqa_dataset_projections"><img src="https://img.shields.io/badge/Data-Release-green"></a>
    </div>
 
   <div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:100%" src="a-bench.png">
+      <img style="width:100%" src="spotlight.png">
   </div>
 
-<div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:100%" src="teaser.jpg">
-  </div>
   
   <h1>LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM</h1>
   
@@ -41,13 +38,13 @@ _ACM MM2024 Oral_
   <sup>1</sup>Shanghai Jiaotong University,  <sup>2</sup>Nanyang Technological University
        </div>   
 <div>
-<sup>#</sup>Corresponding author. 
+<sup>#</sup>Corresponding authors. 
    </div>
   <a href="https://arxiv.org/abs/2404.18203"><strong>Paper</strong></a> |
 <a href="https://github.com/zzc-1998/LMM-PCQA"><strong>Github</strong></a> |
- <a href="[https://huggingface.co/datasets/q-future/A-Bench](https://huggingface.co/datasets/zhangzicheng/pcqa_dataset_projections)"><strong>Data</strong></a> 
+ <a href="https://huggingface.co/datasets/zhangzicheng/pcqa_dataset_projections"><strong>Data</strong></a> 
   <div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:100%" src="spotlight.png">
+      <img style="width:100%" src="framework.png">
   </div>
   
 <div align="left">
