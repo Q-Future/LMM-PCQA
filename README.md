@@ -14,7 +14,7 @@
   
   <h1>LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM</h1>
   
-_ACM MM2024 Oral_
+_ACM MM2024  [**Best Paper Nomination**](https://2024.acmmm.org/best-paper)_
 
   <div>
       <a href="https://zzc-1998.github.io/" target="_blank">Zicheng Zhang</a><sup>1</sup>,
